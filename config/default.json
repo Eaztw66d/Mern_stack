@@ -1,5 +1,7 @@
 {
   "mongoURI": "mongodb+srv://eaztw66d:konigeaztw66d@devconnector-u1dgq.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "eaztw66dtoken"
+  "jwtSecret": "eaztw66dtoken",
+  "githubClientId": "23ae2387ddaa8bdcf064",
+  "githubSecret": "4e594a16b697b69651265de2177887d99c7bd3f4"
 
 }
